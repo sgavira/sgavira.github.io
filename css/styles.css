@@ -19,14 +19,12 @@ header {
   font-size: 35px;
   color: white;
   background-image: url("Foto_H1.png");
-  font-family: fantasy;
+ 
 
 }
 
 nav ul li a {
   text-decoration: none;
-  font-family: fantasy;
-
 }
 
 td {
@@ -109,7 +107,7 @@ width: auto;
 
 }
 
-Form {
+form {
   float: right;
   padding: 20px;
   width: 100%;
